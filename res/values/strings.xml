@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TipCalculator</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="Bill_Amount">Bill Amount</string>
+    <string name="sub10p">10%</string>
+    <string name="sub15p">15%</string>
+    <string name="sub20p">20%</string>
+    <string name="etAmount">Bill Amount</string>
+    <string name="tvTips">0</string>
+
+</resources>
